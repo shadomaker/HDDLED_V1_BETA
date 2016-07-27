@@ -1,0 +1,9 @@
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\bin\Release\HDDLED.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\bin\Release\HDD_Busy.ico
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\bin\Release\HDD_Idle.ico
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\bin\Release\HDDLED.exe
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\bin\Release\HDDLED.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\obj\Release\HDDLED.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\obj\Release\HDDLED.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\obj\Release\HDDLED.exe
+c:\users\ryan\documents\visual studio 2015\Projects\HDDLED\HDDLED\obj\Release\HDDLED.pdb
